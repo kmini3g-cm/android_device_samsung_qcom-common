@@ -37,7 +37,7 @@ TARGET_USES_ION := true
 BOARD_HAL_STATIC_LIBRARIES := libhealthd.qcom
 
 # Qualcomm support
-BOARD_USES_QCOM_HARDWARE := true
+#BOARD_USES_QCOM_HARDWARE := true
 
 # Recovery
 TARGET_RECOVERY_DEVICE_DIRS += device/samsung/qcom-common
